@@ -1,0 +1,7 @@
+/home/HwHiAiUser/work/Histogram/AclNNInvocation/build/CMakeFiles/execute_op.dir
+/home/HwHiAiUser/work/Histogram/AclNNInvocation/build/CMakeFiles/edit_cache.dir
+/home/HwHiAiUser/work/Histogram/AclNNInvocation/build/CMakeFiles/rebuild_cache.dir
+/home/HwHiAiUser/work/Histogram/AclNNInvocation/build/CMakeFiles/list_install_components.dir
+/home/HwHiAiUser/work/Histogram/AclNNInvocation/build/CMakeFiles/install.dir
+/home/HwHiAiUser/work/Histogram/AclNNInvocation/build/CMakeFiles/install/local.dir
+/home/HwHiAiUser/work/Histogram/AclNNInvocation/build/CMakeFiles/install/strip.dir
